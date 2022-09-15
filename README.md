@@ -7,7 +7,7 @@ GadgetToJScript 的原始代码来自@med0x2e - https://github.com/med0x2e/Gadge
 myBlog: https://xiaxiang.xyz/
 
 环境Kali Linux目前不适合win。
-初始化   apt install mono-complet
+初始化   apt install mono-complete
 设置JsBypass.cna中的环境变量。已经在文件中标注了。
 
   1	$toolpath是安装目录的绝对路径。（记得先mkdir）
