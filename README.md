@@ -4,7 +4,8 @@ GadgetToJScript 的原始代码来自@med0x2e - https://github.com/med0x2e/Gadge
 感谢: @EncodeGroup
 
 
-myBlog: https://xiaxiang.xyz/
+myBlog: https://xiaxiang.xyz/弃用
+  New url : https://kyxiaxiang.github.io/
 
 环境Kali Linux目前不适合win。
 初始化   apt install mono-complete
